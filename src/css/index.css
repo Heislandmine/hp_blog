@@ -1,5 +1,17 @@
+#header {
+    width: inherit;
+    margin: auto;
+}
+#footer {
+    width: inherit;
+    margin: auto;
+}
 body {
     width: 60%;
     margin: auto;
     background-color: whitesmoke;
+}
+#main {
+    width: inherit;
+    margin: auto;
 }
