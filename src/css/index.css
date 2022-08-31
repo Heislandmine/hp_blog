@@ -3,11 +3,15 @@
 }
 
 nav {
+    border-bottom: solid;
     margin-left: 64px;
-    margin-right: 32px;
+    margin-right: 64px;
 }
 
 footer {
+    border-top: dotted;
+    margin-left: 64px;
+    margin-right: 64px;
     margin-top: 256px;
     text-align: center;
 }
