@@ -1,24 +1,22 @@
-html {
-    -webkit-text-size-adjust: 100%;
-}
 #header {
     width: inherit;
     margin: auto;
 }
-#footer {
-    width: inherit;
-    margin: auto;
+
+nav {
+    border-bottom: solid;
+    margin-left: 64px;
+    margin-right: 64px;
 }
-body {
-    width: 60%;
-    margin: auto;
-    background-color: whitesmoke;
+
+footer {
+    border-top: dotted;
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-top: 256px;
+    text-align: center;
 }
 #main {
     width: inherit;
     margin: auto;
-}
-
-#main_image img {
-    max-width: 100%;
 }
