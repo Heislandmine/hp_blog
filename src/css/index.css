@@ -1,6 +1,5 @@
-#header {
-    width: inherit;
-    margin: auto;
+header {
+    text-align: center;
 }
 
 nav {
@@ -16,7 +15,8 @@ footer {
     margin-top: 256px;
     text-align: center;
 }
-#main {
-    width: inherit;
-    margin: auto;
+
+#main_section {
+    margin-top: 32px;
+    text-align: center;
 }
